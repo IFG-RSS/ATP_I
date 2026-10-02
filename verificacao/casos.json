@@ -1,0 +1,140 @@
+[
+  {
+    "arquivo": "unit_03/exemplos/tempo.c",
+    "entrada": "3671\n",
+    "saida": "1:01:11\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_04/exemplos/velocidade.c",
+    "entrada": "150 2\n",
+    "saida": "75.00\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_05/exemplos/intervalo.c",
+    "entrada": "10\n",
+    "saida": "No intervalo\nFim\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_06/exemplos/nota.c",
+    "entrada": "6\n",
+    "saida": "Meta atingida\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_06/exemplos/calculadora.c",
+    "entrada": "8 / 2\n",
+    "saida": "4.00\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_07/exemplos/media_sentinela.c",
+    "entrada": "4 8 -1\n",
+    "saida": "6.00\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_07/exemplos/validacao.c",
+    "entrada": "11 8\n",
+    "saida": "Tente novamente\n8.00\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_08/exemplos/fatorial.c",
+    "entrada": "4\n",
+    "saida": "24\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_08/exemplos/primo.c",
+    "entrada": "29\n",
+    "saida": "Primo\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_08/exemplos/retangulo.c",
+    "entrada": "2 3\n",
+    "saida": "***\n***\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_09/exemplos/ola.c",
+    "entrada": "",
+    "saida": "Bem-vindo a ATP I!\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_09/exemplos/soma.c",
+    "entrada": "2.5 3.5\n",
+    "saida": "6.00\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_10/exemplos/contagem.c",
+    "entrada": "5\n9 10 15 20 21\n",
+    "saida": "3\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "projeto_integrador/solucao_referencia.c",
+    "entrada": "2\n6 8\n3 5\n",
+    "saida": "Estudante 1: 7.00\nEstudante 2: 4.00\nMedia da turma: 5.50\nMaior media: 7.00\nMeta atingida: 1\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_08/exemplos/fatorial.c",
+    "entrada": "0\n",
+    "saida": "1\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_08/exemplos/fatorial.c",
+    "entrada": "20\n",
+    "saida": "2432902008176640000\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_08/exemplos/primo.c",
+    "entrada": "1\n",
+    "saida": "Nao primo\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_08/exemplos/primo.c",
+    "entrada": "49\n",
+    "saida": "Nao primo\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_07/exemplos/media_sentinela.c",
+    "entrada": "-1\n",
+    "saida": "Nenhum dado\n",
+    "retorno": 0
+  },
+  {
+    "arquivo": "unit_06/exemplos/calculadora.c",
+    "entrada": "2 / 0\n",
+    "saida": "Divisao por zero\n",
+    "retorno": 1
+  },
+  {
+    "arquivo": "unit_04/exemplos/velocidade.c",
+    "entrada": "20 0\n",
+    "saida": "Entrada invalida\n",
+    "retorno": 1
+  },
+  {
+    "arquivo": "unit_06/exemplos/nota.c",
+    "entrada": "11\n",
+    "saida": "Nota invalida\n",
+    "retorno": 1
+  },
+  {
+    "arquivo": "unit_09/exemplos/soma.c",
+    "entrada": "abc\n",
+    "saida": "",
+    "retorno": 1
+  }
+]
