@@ -40,9 +40,17 @@ fimse
 
 ## 🔍 Teste de mesa comentado
 
-entrada 4, 8, -1: soma 0→4→12; quantidade 0→1→2; média=6
+| Etapa | valor | valor != -1 | soma | quantidade | Saída |
+| --- | --- | --- | --- | --- | --- |
+| Inicializar | — | — | 0 | 0 | — |
+| Ler primeiro valor | 4 | Verdadeiro | 0 | 0 | — |
+| Acumular e contar | 4 | — | 4 | 1 | — |
+| Ler próximo valor | 8 | Verdadeiro | 4 | 1 | — |
+| Acumular e contar | 8 | — | 12 | 2 | — |
+| Ler sentinela | -1 | Falso | 12 | 2 | — |
+| Verificar quantidade > 0 e escrever média | -1 | — | 12 | 2 | 6 |
 
-Reexecute instrução por instrução e registre em uma tabela as variáveis alteradas. Antes de executar no computador, preveja a saída.
+Acompanhe cada etapa e confira os valores antes de executar no computador. O símbolo **—** indica um valor ainda não definido ou uma operação não realizada nessa etapa.
 
 ## 📝 Lista de exercícios
 
