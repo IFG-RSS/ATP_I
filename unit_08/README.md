@@ -33,9 +33,17 @@ escrever produto
 
 ## 🔍 Teste de mesa comentado
 
-n=4: produto 1→1→2→6→24; n=0: nenhuma repetição, resultado 1
+| Etapa | n | i | produto | Saída |
+| --- | --- | --- | --- | --- |
+| Inicializar | 4 | — | 1 | — |
+| Primeira repetição | 4 | 1 | 1 | — |
+| Segunda repetição | 4 | 2 | 2 | — |
+| Terceira repetição | 4 | 3 | 6 | — |
+| Quarta repetição | 4 | 4 | 24 | — |
+| Encerrar e escrever | 4 | — | 24 | 24 |
+| Caso n = 0: não executar o laço | 0 | — | 1 | 1 |
 
-Reexecute instrução por instrução e registre em uma tabela as variáveis alteradas. Antes de executar no computador, preveja a saída.
+Acompanhe cada etapa e confira os valores antes de executar no computador. O símbolo **—** indica um valor ainda não definido ou uma operação não realizada nessa etapa.
 
 ## 📝 Lista de exercícios
 
