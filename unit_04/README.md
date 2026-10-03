@@ -32,9 +32,13 @@ escrever velocidade
 
 ## 🔍 Teste de mesa comentado
 
-distância=150 km; tempo=2 h; velocidade=75 km/h
+| Etapa | distancia (km) | tempo (h) | velocidade (km/h) | Saída |
+| --- | --- | --- | --- | --- |
+| Ler distância e tempo | 150 | 2 | — | — |
+| Calcular distancia / tempo | 150 | 2 | 75 | — |
+| Escrever velocidade | 150 | 2 | 75 | 75 |
 
-Reexecute instrução por instrução e registre em uma tabela as variáveis alteradas. Antes de executar no computador, preveja a saída.
+Acompanhe cada etapa e confira os valores antes de executar no computador. O símbolo **—** indica um valor ainda não definido ou uma operação não realizada nessa etapa.
 
 ## 📝 Lista de exercícios
 
