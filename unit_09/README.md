@@ -30,9 +30,13 @@ escrever soma
 
 ## 🔍 Teste de mesa comentado
 
-a=2,5; b=3,5; soma=6
+| Etapa | a | b | soma | Saída |
+| --- | --- | --- | --- | --- |
+| Ler valores | 2,5 | 3,5 | — | — |
+| Calcular a + b | 2,5 | 3,5 | 6 | — |
+| Escrever soma | 2,5 | 3,5 | 6 | 6 |
 
-Reexecute instrução por instrução e registre em uma tabela as variáveis alteradas. Antes de executar no computador, preveja a saída.
+Acompanhe cada etapa e confira os valores antes de executar no computador. O símbolo **—** indica um valor ainda não definido ou uma operação não realizada nessa etapa.
 
 ## 📝 Lista de exercícios
 
@@ -42,7 +46,7 @@ Reexecute instrução por instrução e registre em uma tabela as variáveis alt
 4. Transcreva a conversão de temperatura para C.
 5. Compare a saída de 5/2 com 5.0/2.0.
 6. Introduza um ponto e vírgula ausente e interprete o diagnóstico.
-7. Leia um caractere com scanf(" %c", &letra) e explique o espaço antes de %c.
+7. Leia um caractere com `scanf(" %c", &letra)` e explique o espaço antes de `%c`.
 8. Transcreva a classificação de positivo, negativo ou zero.
 9. Implemente a média de N valores com for.
 10. Registre entrada, saída esperada e saída obtida de três testes.
@@ -59,4 +63,4 @@ Reexecute instrução por instrução e registre em uma tabela as variáveis alt
 
 Consulte a bibliografia do [plano](../docs/PLANO_E_ALINHAMENTO.md) pelo tema desta unidade. Ao usar material externo, confira a sintaxe da ferramenta e implemente a solução por conta própria.
 
-Os [exemplos em C](./exemplos/) apoiam a transcrição; a apresentação sistemática do ambiente está na Unidade 09.
+Compile e execute os [exemplos em C](./exemplos/) seguindo o [guia de execução](../docs/GUIA_C.md).
