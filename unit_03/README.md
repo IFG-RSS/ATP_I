@@ -33,9 +33,15 @@ escrever horas, minutos, resto mod 60
 
 ## 🔍 Teste de mesa comentado
 
-segundos=3671; horas=1; resto=71; minutos=1; segundos restantes=11
+| Etapa | segundos | horas | resto | minutos | Saída |
+| --- | --- | --- | --- | --- | --- |
+| Ler segundos | 3671 | — | — | — | — |
+| segundos div 3600 | 3671 | 1 | — | — | — |
+| segundos mod 3600 | 3671 | 1 | 71 | — | — |
+| resto div 60 | 3671 | 1 | 71 | 1 | — |
+| Escrever horas, minutos e resto mod 60 | 3671 | 1 | 71 | 1 | 1 h, 1 min e 11 s |
 
-Reexecute instrução por instrução e registre em uma tabela as variáveis alteradas. Antes de executar no computador, preveja a saída.
+Acompanhe cada etapa e confira os valores antes de executar no computador. O símbolo **—** indica um valor ainda não definido ou uma operação não realizada nessa etapa.
 
 ## 📝 Lista de exercícios
 
