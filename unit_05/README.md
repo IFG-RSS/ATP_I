@@ -37,9 +37,14 @@ escrever "Fim"
 
 ## 🔍 Teste de mesa comentado
 
-valor=-3: condição verdadeira, exibe aviso e Fim; valor=2: exibe apenas Fim
+| Caso | valor | valor < 0 | Ação |
+| --- | --- | --- | --- |
+| 1 | -3 | Verdadeiro | Exibir Valor negativo |
+| 1 | -3 | — | Exibir Fim |
+| 2 | 2 | Falso | Não executar o bloco da seleção |
+| 2 | 2 | — | Exibir Fim |
 
-Reexecute instrução por instrução e registre em uma tabela as variáveis alteradas. Antes de executar no computador, preveja a saída.
+Acompanhe cada etapa e confira os valores antes de executar no computador. O símbolo **—** indica um valor ainda não definido ou uma operação não realizada nessa etapa.
 
 ## 📝 Lista de exercícios
 
