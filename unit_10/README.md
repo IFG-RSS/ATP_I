@@ -43,9 +43,17 @@ fimse
 
 ## 🔍 Teste de mesa comentado
 
-N=2; notas (6,8) e (3,5): médias 7 e 4; turma=5,5; meta atingida=1
+| Etapa | i | n1 | n2 | media | total | atingiram |
+| --- | --- | --- | --- | --- | --- | --- |
+| Inicializar para n = 2 | — | — | — | — | 0 | 0 |
+| Calcular primeira média | 1 | 6 | 8 | 7 | 0 | 0 |
+| Acumular e verificar media >= 6 | 1 | 6 | 8 | 7 | 7 | 1 |
+| Calcular segunda média | 2 | 3 | 5 | 4 | 7 | 1 |
+| Acumular e verificar media >= 6 | 2 | 3 | 5 | 4 | 11 | 1 |
 
-Reexecute instrução por instrução e registre em uma tabela as variáveis alteradas. Antes de executar no computador, preveja a saída.
+**Saída final:** média da turma = 11 / 2 = **5,5**; estudantes que atingiram a meta = **1**.
+
+Acompanhe cada etapa e confira os valores antes de executar no computador. O símbolo **—** indica um valor ainda não definido ou uma operação não realizada nessa etapa.
 
 ## 📝 Lista de exercícios
 
@@ -72,4 +80,4 @@ Reexecute instrução por instrução e registre em uma tabela as variáveis alt
 
 Consulte a bibliografia do [plano](../docs/PLANO_E_ALINHAMENTO.md) pelo tema desta unidade. Ao usar material externo, confira a sintaxe da ferramenta e implemente a solução por conta própria.
 
-Os [exemplos em C](./exemplos/) apoiam a transcrição; a apresentação sistemática do ambiente está na Unidade 09.
+Compile e execute os [exemplos em C](./exemplos/) seguindo o [guia de execução](../docs/GUIA_C.md).
