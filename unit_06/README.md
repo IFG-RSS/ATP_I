@@ -35,9 +35,13 @@ fimse
 
 ## 🔍 Teste de mesa comentado
 
-nota=6: válida, meta atingida; nota=5,9: revisar; nota=11: inválida
+| nota | Fora de 0 a 10? | nota >= 6? | Saída |
+| --- | --- | --- | --- |
+| 6 | Falso | Verdadeiro | Meta atingida |
+| 5,9 | Falso | Falso | Revisar conteúdo |
+| 11 | Verdadeiro | Não avaliada | Nota inválida |
 
-Reexecute instrução por instrução e registre em uma tabela as variáveis alteradas. Antes de executar no computador, preveja a saída.
+Acompanhe cada etapa e confira os valores antes de executar no computador. O símbolo **—** indica um valor ainda não definido ou uma operação não realizada nessa etapa.
 
 ## 📝 Lista de exercícios
 
