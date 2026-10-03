@@ -31,9 +31,14 @@ escrever troco
 
 ## 🔍 Teste de mesa comentado
 
-preço=18,50; pagamento=20,00; troco=1,50
+| Etapa | preco | pagamento | troco | Saída |
+| --- | --- | --- | --- | --- |
+| Ler preço | 18,50 | — | — | — |
+| Ler pagamento | 18,50 | 20,00 | — | — |
+| Calcular troco | 18,50 | 20,00 | 1,50 | — |
+| Escrever troco | 18,50 | 20,00 | 1,50 | 1,50 |
 
-Reexecute instrução por instrução e registre em uma tabela as variáveis alteradas. Antes de executar no computador, preveja a saída.
+Acompanhe cada etapa e confira os valores antes de executar no computador. O símbolo **—** indica um valor ainda não definido ou uma operação não realizada nessa etapa.
 
 ## 📝 Lista de exercícios
 
