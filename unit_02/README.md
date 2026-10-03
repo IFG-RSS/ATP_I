@@ -31,9 +31,13 @@ fim
 
 ## 🔍 Teste de mesa comentado
 
-n1=6; n2=8; n1+n2=14; media=7
+| Etapa | n1 | n2 | media | Saída |
+| --- | --- | --- | --- | --- |
+| Ler notas | 6 | 8 | — | — |
+| Calcular (6 + 8) / 2 | 6 | 8 | 7 | — |
+| Escrever média | 6 | 8 | 7 | 7 |
 
-Reexecute instrução por instrução e registre em uma tabela as variáveis alteradas. Antes de executar no computador, preveja a saída.
+Acompanhe cada etapa e confira os valores antes de executar no computador. O símbolo **—** indica um valor ainda não definido ou uma operação não realizada nessa etapa.
 
 ## 📝 Lista de exercícios
 
