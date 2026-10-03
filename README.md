@@ -1,6 +1,6 @@
 # 📘 ATP I — Algoritmos e Técnicas de Programação I
 
-Material didático alinhado ao plano de ensino de **2026/2**, Bacharelado em Engenharia de Software, IFG — Câmpus Inhumas, **54 horas / 72 aulas**.
+Material didático alinhado ao plano de ensino de **Algoritmo e técnicas de programação I - 2026/2**, Bacharelado em Engenharia de Software, IFG — Câmpus Inhumas, **54 horas / 72 aulas**.
 
 Organização inspirada em [IFG-RSS/ATP_II](https://github.com/IFG-RSS/ATP_II): diretórios `unit_XX`, README por unidade, objetivos, conteúdo, exemplos e exercícios graduais.
 
@@ -34,9 +34,11 @@ Leia as unidades em sequência. Faça os testes de mesa, resolva os exercícios 
 As dez listas contêm **100 exercícios**. Vetores, matrizes, registros e arquivos não integram o conteúdo principal porque não constam do plano anexado.
 
 ## Identificação e autoria
-
-O plano anexado identifica **Victor Hugo Lazaro Lopes** como professor responsável pela oferta 2026/2. Este repositório contém material de apoio preparado a pedido de Rogério S. Silva; não substitui o plano aprovado nem atribui sua autoria ao professor do plano.
+Disciplina: **Algoritmo e técnicas de programação I**
+Curso: **Bacharelado em engenharia de software**
+Semestre/Ano: **1 / 2026**
+Professores: **Rogério S. Silva** e **Victor Hugo Lazaro Lopes** 
 
 ## Avaliação
 
-Conforme o plano: Avaliação 1 — 30%; Avaliação 2 — 55%; atividades práticas — 15%. Datas, instrumentos e alterações cabem ao professor responsável.
+Conforme o plano: Avaliação 1 — 30%; Avaliação 2 — 55%; atividades práticas — 15%. Datas, instrumentos e alterações cabem aos professores responsáveis.
