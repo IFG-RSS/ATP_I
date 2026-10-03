@@ -6,7 +6,7 @@ Organização inspirada em [IFG-RSS/ATP_II](https://github.com/IFG-RSS/ATP_II): 
 
 ## Como estudar
 
-Leia as unidades em sequência. Faça os testes de mesa, resolva os exercícios e compile os exemplos em C. O pseudocódigo é uma notação didática, independente de uma ferramenta específica de Portugol.
+Leia as unidades em sequência. Faça os testes de mesa, resolva os exercícios e compile os exemplos em C. O pseudocódigo é uma notação didática, baseada na sintaxe da linguagem [PEQUI](docs/), independente de uma ferramenta específica de Portugol.
 
 ## Índice
 
@@ -34,10 +34,15 @@ Leia as unidades em sequência. Faça os testes de mesa, resolva os exercícios 
 As dez listas contêm **100 exercícios**. Vetores, matrizes, registros e arquivos não integram o conteúdo principal porque não constam do plano anexado.
 
 ## Identificação e autoria
+
 Disciplina: **Algoritmo e técnicas de programação I**
+
 Curso: **Bacharelado em engenharia de software**
+
 Semestre/Ano: **1 / 2026**
+
 Professores: **Rogério S. Silva** e **Victor Hugo Lazaro Lopes** 
+
 
 ## Avaliação
 
