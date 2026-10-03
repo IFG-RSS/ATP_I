@@ -6,7 +6,7 @@ Organização inspirada em [IFG-RSS/ATP_II](https://github.com/IFG-RSS/ATP_II): 
 
 ## Como estudar
 
-Leia as unidades em sequência. Faça os testes de mesa, resolva os exercícios e compile os exemplos em C. O pseudocódigo é uma notação didática, baseada na sintaxe da linguagem [PEQUI](docs/), independente de uma ferramenta específica de Portugol.
+Leia as unidades em sequência. Faça os testes de mesa, resolva os exercícios e compile os exemplos em C. O pseudocódigo é uma notação didática, baseada na sintaxe da linguagem [PEQUI](docs/plano_de_ensino_ATP_I.pdf), independente de uma ferramenta específica de Portugol.
 
 ## Índice
 
